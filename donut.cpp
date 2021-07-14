@@ -3,6 +3,8 @@
 #include <string.h>
 #include <unistd.h>
 
+
+//the following code will print a donut
 int main() {
     float A = 0, B = 0;
     float i, j;
